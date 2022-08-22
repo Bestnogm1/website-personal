@@ -399,12 +399,13 @@ body.resume-opened .deebo_fn__cv .cv__bg2 {
 
 .deebo_fn__cv .cv__header .avatar {
 	margin-bottom: 20px;
-	padding-top: 2rem;
+	/* padding-top: 3rem; */
+	margin-top: 25rem;
 }
 
 .deebo_fn__cv .cv__header .avatar img {
-	max-width: 600px;
-	height: 200px;
+	max-width: 1000px;
+	height: 400px;
 	border-radius: 5%;
 }
 
